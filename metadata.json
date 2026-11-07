@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix UD REZ WAN JAYA - Katalog Galeri Undangan",
+  "description": "Katalog Galeri Desain dan Cetak Undangan Pernikahan Eksklusif UD REZ WAN JAYA. Pratinjau mockup, spesifikasi kertas, dan file cetak terverifikasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
